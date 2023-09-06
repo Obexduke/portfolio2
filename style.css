@@ -22,10 +22,11 @@ body{
 }
 .logo{
     position: relative;
-   font-size: 25px;
+   font-size: 35px;
    color: #ededed;
    text-decoration: none;
    font-weight: 600;
+   font-family: 'Sedgwick Ave Display', cursive;
 }
 .logo::before {
     content: '';
